@@ -1,0 +1,9 @@
+# Query: freelan
+# ContextLines: 1
+
+1 result - 1 file
+
+index.html:
+  89          <h2>I am Abhishek Pradeep</h2>
+  90:         <p><span class="typed" data-typed-items="Designer, Developer, Photographer"></span></p>
+  91        </div>
